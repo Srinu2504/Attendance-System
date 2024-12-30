@@ -43,18 +43,8 @@ This **Attendance Management System** tracks who is present by automatically usi
 
 
 
-  
-   ![Interface of the FAMS](https://github.com/user-attachments/assets/e733c3e3-7745-44d7-8168-198cc201be83)
-
-
-
    
    **Click on Take Images**: It takes several images in grayscale to train the model.
-
-
-
-  
-   ![Taking Images of the Student](https://github.com/user-attachments/assets/5a981da8-7546-4af9-811d-0e28e5385fee)
 
 
    
@@ -69,8 +59,6 @@ This **Attendance Management System** tracks who is present by automatically usi
    
 
    
-   ![Training the model](https://github.com/user-attachments/assets/c6a10f6e-e4e9-4cae-8002-33e831e7fd5b)
-
    
 
    
@@ -88,9 +76,6 @@ This **Attendance Management System** tracks who is present by automatically usi
   
 
 
-    ![Attendance Marked](https://github.com/user-attachments/assets/ba0f08cd-4673-4f40-9666-a34be3b4092e)
-
-
 
    * **Note**:**The attendance is filled** will show after capturing your face
   
@@ -102,9 +87,6 @@ This **Attendance Management System** tracks who is present by automatically usi
 
 
    * Once it identifies , then the attendance is marked 
-   
-
-   ![Taking Attendance based on the Trained Model](https://github.com/user-attachments/assets/2cbb33b9-b61a-4866-85e4-142ae7c7fbb7)
 
 
 
@@ -129,13 +111,6 @@ This **Attendance Management System** tracks who is present by automatically usi
 
    
 
-   ![Manual Attendance](https://github.com/user-attachments/assets/2e10ef6e-d20b-455a-88b9-186c11ffd92a)
-
-
-   
-
-   ![Manual Attendance(1)](https://github.com/user-attachments/assets/2e2001b4-4e8f-496d-954a-27968e28d30a)
-
 
 
 5. **Check the Registered Students** : we can check the students who are registered on the system through their face data
@@ -146,14 +121,10 @@ This **Attendance Management System** tracks who is present by automatically usi
      
    * There it will ask for the name and password , enter it accordingly and click login
   
-     
-     ![Entering username and password for checking registered faces](https://github.com/user-attachments/assets/f71334de-7de5-4e5d-b405-d7f25a2dabe8)
 
 
    * Then we can see all the students who have registered their faces at what time and exact details
   
-     ![List Of Registered Faces and their details](https://github.com/user-attachments/assets/f976eade-daab-467b-aea7-ad5649b27b4a)
-
 
 
    * **Note**: The list of students who have not registered their faces or who gave their attendance manually will not be shown here in the list 
@@ -166,12 +137,6 @@ This **Attendance Management System** tracks who is present by automatically usi
 ---
 
 ## Installation and Setup
-
-1. **Clone the Repository**:  
-   ```bash
-   git clone https://github.com/Sreekar529/Face-Recognition-Attendance-System.git
-   cd Attendance-Management-System-using-Face-Recognition
-   ```
 
 2. **Install Dependencies**:  
    ```bash
